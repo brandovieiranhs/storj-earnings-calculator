@@ -14,13 +14,13 @@ Never access node databases over a network connection like SMB, NFS etc. SQLite 
 Usage
 
 Earnings for current month:
-
+```
 python earnings.py /path/to/storj/data
-
+```
 Note: If you omit the path it will look in the current working directory.
 
 Earnings for previous months:
-
+```
 python earnings.py /path/to/storj/data 2023-03
-
+```
 This is based on ReneSmeekes storj_earnings python script: https://github.com/ReneSmeekes/storj_earnings
