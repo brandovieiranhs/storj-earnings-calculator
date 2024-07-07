@@ -145,5 +145,4 @@ Payout and held amount by satellite:
 │                                │             │                          │                                       PAID TOTAL $106.1412  │
 └────────────────────────────────┴─────────────┴──────────────────────────┴─────────────────────────────────────────────────────────────┘
 ```
-
 This is based on ReneSmeekes storj_earnings python script: https://github.com/ReneSmeekes/storj_earnings
