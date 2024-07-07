@@ -23,4 +23,4 @@ Earnings for previous months:
 
 python earnings.py /path/to/storj/data 2023-03
 
-
+This is based on ReneSmeekes storj_earnings python script: https://github.com/ReneSmeekes/storj_earnings
