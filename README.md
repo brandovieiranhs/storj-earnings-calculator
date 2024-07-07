@@ -2,7 +2,7 @@
 <br/>
 Earnings calculation script for Storj V3 storagenodes
 
-# Example current month:
+Example current month:
 <br/>
 ```
 April 2024 (Version: 13.4.0)                                            [snapshot: 2024-04-14 13:50:38Z]
