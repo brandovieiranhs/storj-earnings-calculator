@@ -1,6 +1,5 @@
 # storj-earnings-calculator
-Earnings calculation script for Storj V3 storagenodes
-This is based on ReneSmeekes storj_earnings python script: https://github.com/ReneSmeekes/storj_earnings
+Earnings calculation script for Storj V3 storagenodes based on ReneSmeekes original storj_earnings python script: https://github.com/ReneSmeekes/storj_earnings
 
 ## Example current month:
 ```
